@@ -12,10 +12,12 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
 - 26-11-2019 Tuesday
   - Field study
 - 27-11-2019 Wednesday
-  - What is Sonification?
+  - Sonification
     - https://en.wikipedia.org/wiki/Sonification
     - [Soundscape Clock](https://smartech.gatech.edu/handle/1853/61510)
       - [Link to demo](https://soundcloud.com/user-657836730/speaking-soundscape)
+    - [Turn your data into sound](https://www.revealnews.org/blog/turn-your-data-into-sound-using-our-new-miditime-library/)
+    - [Representing data with sound](https://blogs.lib.msu.edu/node/231687/)
   - Responsibility delegation
     - Field Study, Research and Exhibit design - All
     - Documentation/Archive/Editing - TBD (2)
@@ -39,6 +41,7 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
       - Creation and editing of sounds from data
       - Post-production
       - Sound Programming (Tentative)
+  - Develop project roadmap
 - 28-11-2019 Thursday
   - TBA
   

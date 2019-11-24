@@ -12,18 +12,23 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
 - 26-11-2019 Tuesday
   - Field study
 - 27-11-2019 Wednesday
-  - Sonification
-    - https://en.wikipedia.org/wiki/Sonification
-    - [Soundscape Clock](https://smartech.gatech.edu/handle/1853/61510)
-      - [Link to demo](https://soundcloud.com/user-657836730/speaking-soundscape)
-    - [Turn your data into sound](https://www.revealnews.org/blog/turn-your-data-into-sound-using-our-new-miditime-library/)
-    - [Representing data with sound](https://blogs.lib.msu.edu/node/231687/)
+  - Activity 1: Understanding what is Sonification?
+    - Few pointers to get start your search
+      - https://en.wikipedia.org/wiki/Sonification
+      - [Soundscape Clock](https://smartech.gatech.edu/handle/1853/61510)
+        - [Link to demo](https://soundcloud.com/user-657836730/speaking-soundscape)
+      - [Turn your data into sound](https://www.revealnews.org/blog/turn-your-data-into-sound-using-our-new-miditime-library/)
+      - [Representing data with sound](https://blogs.lib.msu.edu/node/231687/)
+    - Collect interesting examples of sonification
+    - Identify tools to translate data into sound
+    - Try to build an example
   - Responsibility delegation
     - Field Study, Research and Exhibit design - All
     - Documentation/Archive/Editing - TBD (2)
       - Text/Photo/Video/Audio archival of all the activites carried out in this project
       - Writing and editing content which goes on website and documentation of the project
       - Creating and maintaining project website
+      - Day-wise documentation on website
     - Visual Design - TBD (2)
       - Taking content from Doc. team and developing relevant collaterals
       - Design of invitations
@@ -41,7 +46,26 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
       - Creation and editing of sounds from data
       - Post-production
       - Sound Programming (Tentative)
-  - Develop project roadmap
+  - Team meetings and develop project roadmap
+  - Activity 2: Warming up for the Research + Inspiration
+    - Group yourself in pairs and allocate unique set for each
+    - Read/view/listen the given resources in the pair
+    - Put down the visual/sketch notes (as you're going through it) for each article/podcast/video on a large sheet of paper
+      - [SketchNotes 101 - The Basics of Visual Note taking] https://www.core77.com/posts/19678/sketchnotes-101-the-basics-of-visual-note-taking-19678
+    - Set 1
+      - Article: [On the Grid: Visualizing Street Network Orientations](https://99percentinvisible.org/article/on-the-grid-visualizing-street-network-orientations-across-50-global-cities/)
+      - Podcast: [Unseen City Wonders - Urban Wilderness](https://99percentinvisible.org/episode/unseen-city-wonders-urban-wilderness/)
+    - Set 2
+      - Article: [Least Resistance: How desire paths can lead to Better Design?](https://99percentinvisible.org/article/least-resistance-desire-paths-can-lead-better-design/)
+      - Podcast: [Rajneeshpuram](https://99percentinvisible.org/episode/rajneeshpuram/)
+    - Set 3
+      - Article: [Biodiversity Flyover Accident](https://www.ndtv.com/hyderabad-news/biodiversity-flyover-accident-on-camera-speeding-car-skids-off-hyderabad-flyover-crashes-kills-1-2137493)
+      - Podcast: [Separation Anxiety](https://99percentinvisible.org/episode/separation-anxiety/)
+    - Set 4
+      - Article: [Why the nationwide NRC proposed by Amit Shah is being criticised?](https://www.indiatoday.in/india-today-insight/story/why-the-nationwide-nrc-proposed-by-amit-shah-is-being-criticised-1621483-2019-11-22)
+      - Video: [Eco India: Bengaluru is witnessing a transformation, one lake at a time](https://www.youtube.com/watch?v=nHqpKyt8w8A&feature=youtu.be)
+    - Present to each other
+
 - 28-11-2019 Thursday
   - TBA
   

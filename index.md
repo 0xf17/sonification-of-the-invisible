@@ -46,7 +46,7 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
       - Creation and editing of sounds from data
       - Post-production
       - Sound Programming (Tentative)
-  - Team meetings and develop project roadmap
+  - Team meetings to detail out the responsibilities
   - Activity 2: Warming up for the Research + Inspiration
     - Group yourself in pairs and allocate unique set for each
     - Read/view/listen the given resources in the pair
@@ -64,10 +64,21 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
     - Set 4
       - Article: [Why the nationwide NRC proposed by Amit Shah is being criticised?](https://www.indiatoday.in/india-today-insight/story/why-the-nationwide-nrc-proposed-by-amit-shah-is-being-criticised-1621483-2019-11-22)
       - Video: [Eco India: Bengaluru is witnessing a transformation, one lake at a time](https://www.youtube.com/watch?v=nHqpKyt8w8A&feature=youtu.be)
-    - Present to each other
+  - Develop Project Roadmap
+  - Identify data-points that may be captured   
 
 - 28-11-2019 Thursday
-  - TBA
+  - Activity 3: Sonification within Srishti
+    - (Specific) Unequal step sizes in N5
+    - (Vague) Courses and Program in Srishti
+  - Finalizing data-points that will be captured during this study
+  - Framing Design Intent
+  - Designing Study Protocol
+
+- 29-11-2019 Friday
+  - Field Study
+    - Team 1 - Shivaji Nagar
+    - Team 2 - State Central Library
   
 # Week 2
 - TBA

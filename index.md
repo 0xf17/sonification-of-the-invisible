@@ -4,6 +4,23 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 
 Facilitator: [Gaurav Singh](https://github.com/0xf17)
 
+# Week 1
+- 25-11-2019 Monday
+  - Introductory presentation by Dr.Geetha Narayanan
+  - Group allocation and introduction
+  - Ethics of engagement workshop
+- 26-11-2019 Tuesday
+  - Field study
+- 28-11-2019 Thursday
+  - TBA
+  
+# Week 2
+
+# Week 3
+
+# Week 4
+- 19-11-2019 Conference Day
+
 # Appendix
 
 ## Srishti Interlude 2019-20

@@ -12,6 +12,10 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
 - 26-11-2019 Tuesday
   - Field study
 - 27-11-2019 Wednesday
+  - What is Sonification?
+    - https://en.wikipedia.org/wiki/Sonification
+    - [Soundscape Clock](https://smartech.gatech.edu/handle/1853/61510)
+      - [Link to demo](https://soundcloud.com/user-657836730/speaking-soundscape)
   - Responsibility delegation
     - Field Study, Research and Exhibit design - All
     - Documentation/Archive/Editing - TBD (2)
@@ -31,6 +35,10 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
     - Presentation Leads - TBD (2)
       - Presenting progress summaries to other groups in Interlude
       - Presenting the exhibit to the visitors in the conference
+    - Sound Design - TBD (2)
+      - Creation and editing of sounds from data
+      - Post-production
+      - Sound Programming (Tentative)
 - 28-11-2019 Thursday
   - TBA
   

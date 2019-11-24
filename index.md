@@ -108,8 +108,8 @@ Every place will have a story of its own. Be it about the time, place or people.
 - Send an email with subject `'[Srishti IL 2019] Requesting GitHub Collaborator Invite'` with your GitHub email/handle in the body to `gaurav.singh@srishti.ac.in`.
 
 ## Important Notes
-- Please prefix [Srishti IL 2019] in the email subject when sending email to me (about this project).
-- As much as possible, keep all the members of this project in cc.
+- Please prefix `[Srishti IL 2019]` in the email subject when sending email to me (about this project).
+- As much as possible, keep all the members of this project in `cc`.
 - For quick questions or help, stick to [issues](https://github.com/0xf17/sonification-of-the-invisible/issues) on GitHub repo.
 
 <hr/>

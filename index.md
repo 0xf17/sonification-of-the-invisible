@@ -51,7 +51,7 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
     - Group yourself in pairs and allocate unique set for each
     - Read/view/listen the given resources in the pair
     - Put down the visual/sketch notes (as you're going through it) for each article/podcast/video on a large sheet of paper
-      - [SketchNotes 101 - The Basics of Visual Note taking] https://www.core77.com/posts/19678/sketchnotes-101-the-basics-of-visual-note-taking-19678
+      - [SketchNotes 101 - The Basics of Visual Note taking](https://www.core77.com/posts/19678/sketchnotes-101-the-basics-of-visual-note-taking-19678)
     - Set 1
       - Article: [On the Grid: Visualizing Street Network Orientations](https://99percentinvisible.org/article/on-the-grid-visualizing-street-network-orientations-across-50-global-cities/)
       - Podcast: [Unseen City Wonders - Urban Wilderness](https://99percentinvisible.org/episode/unseen-city-wonders-urban-wilderness/)

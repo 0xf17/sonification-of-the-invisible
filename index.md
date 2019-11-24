@@ -103,6 +103,15 @@ Every place will have a story of its own. Be it about the time, place or people.
 - Our group/studio will explore such questions by being attentive to spatio-temporal rhythms and patterns of sensorial stimulus. 
 - Guided more by process and the collaborative grammar of interaction our multiple, open-ended explorations will hopefully offer different vantage points into this part of the city. 
 
+## Request GitHub Collaborator Invite
+- Create your GitHub account [here](https://github.com).
+- Send an email with subject '[Srishti IL 2019] Requesting GitHub Collaborator Invite' with your GitHub email/handle in the body to `gaurav.singh@srishti.ac.in`.
+
+## Important Notes
+- Please prefix [Srishti IL 2019] in the email subject when sending email to me (about this project).
+- As much as possible, keep all the members of this project in cc.
+- For quick questions or help, stick to [issues](https://github.com/0xf17/sonification-of-the-invisible/issues) on GitHub repo.
+
 <hr/>
 
 Copyright (C) Srishti Institute of Art, Design & Technology. Only intended for internal use by project members.

@@ -16,5 +16,4 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
 - Our group/studio will explore such questions by being attentive to spatio-temporal rhythms and patterns of sensorial stimulus. 
 - Guided more by process and the collaborative grammar of interaction our multiple, open-ended explorations will hopefully offer different vantage points into this part of the city. 
 
-<hr>
-<small>Copyright (C) Srishti Institute of Art, Design & Technology. Only intended for internal use by project members.</small>
+Copyright (C) Srishti Institute of Art, Design & Technology. Only intended for internal use by project members.

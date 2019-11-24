@@ -18,10 +18,11 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
       - Text/Photo/Video/Audio archival of all the activites carried out in this project
       - Writing and editing content which goes on website and documentation of the project
       - Creating and maintaining project website
-    - Visual Communication - TBD (2)
+    - Visual Design - TBD (2)
       - Taking content from Doc. team and developing relevant collaterals
       - Design of invitational poster
       - Designing theme/visuals for website/conference
+      - Design and printing of the book
     - Planning for Conference Exhibition - TBD (2)
       - Outreach using both print and digital
       - Planning of form/placement or any other production aspect of exhibit
@@ -29,7 +30,6 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
     - Presentation Leads - TBD (2)
       - Presenting progress summaries to other groups in Interlude
       - Presenting the exhibit to the visitors in the conference
-    
 - 28-11-2019 Thursday
   - TBA
   

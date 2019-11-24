@@ -20,10 +20,11 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
       - Creating and maintaining project website
     - Visual Design - TBD (2)
       - Taking content from Doc. team and developing relevant collaterals
-      - Design of invitational poster
+      - Design of invitations
       - Designing theme/visuals for website/conference
       - Design and printing of the book
     - Planning for Conference Exhibition - TBD (2)
+      - Overall planning and coordination
       - Outreach using both print and digital
       - Planning of form/placement or any other production aspect of exhibit
       - Any other arrangements for conference

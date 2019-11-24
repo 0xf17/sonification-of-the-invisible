@@ -11,6 +11,8 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
   - Ethics of Engagement workshop
 - 26-11-2019 Tuesday
   - Field study
+- 27-11-2019 Wednesday
+  - Responsibility delegation
 - 28-11-2019 Thursday
   - TBA
   

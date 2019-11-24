@@ -5,26 +5,29 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 Facilitator: [Gaurav Singh](https://github.com/0xf17)
 
 # Week 1
-- 25-11-2019 Monday
-  - Introductory presentation by Dr.Geetha Narayanan
-  - Group allocation and Introduction to tracks
-  - Ethics of Engagement workshop
-- 26-11-2019 Tuesday
-  - Field study
-- 27-11-2019 Wednesday
-  - [Responsibility delegation](https://github.com/0xf17/sonification-of-the-invisible/issues/1)
-  - [Understanding what is Sonification?](https://github.com/0xf17/sonification-of-the-invisible/issues/2)
-  - [Warming up for the Research + Inspiration](https://github.com/0xf17/sonification-of-the-invisible/issues/3)
-  - [Develop Project Roadmap](https://github.com/0xf17/sonification-of-the-invisible/issues/4)
-  - [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)
-- 28-11-2019 Thursday
-  - [Sonification within Srishti](https://github.com/0xf17/sonification-of-the-invisible/issues/6)
-  - [Finalizing data-points that will be captured during this study](https://github.com/0xf17/sonification-of-the-invisible/issues/7)
-  - [Framing Design Intent](https://github.com/0xf17/sonification-of-the-invisible/issues/8)
-  - [Designing Study Protocol](https://github.com/0xf17/sonification-of-the-invisible/issues/9)
+## 25-11-2019 Monday
+- Introductory presentation by Dr.Geetha Narayanan
+- Group allocation and Introduction to tracks
+- Ethics of Engagement workshop
 
-- 29-11-2019 Friday
-  - Field Study
+## 26-11-2019 Tuesday
+- Field study
+
+## 27-11-2019 Wednesday
+- [Responsibility delegation](https://github.com/0xf17/sonification-of-the-invisible/issues/1)
+- [Understanding what is Sonification?](https://github.com/0xf17/sonification-of-the-invisible/issues/2)
+- [Warming up for the Research + Inspiration](https://github.com/0xf17/sonification-of-the-invisible/issues/3)
+- [Develop Project Roadmap](https://github.com/0xf17/sonification-of-the-invisible/issues/4)
+- [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)
+
+## 28-11-2019 Thursday
+- [Sonification within Srishti](https://github.com/0xf17/sonification-of-the-invisible/issues/6)
+- [Finalizing data-points that will be captured during this study](https://github.com/0xf17/sonification-of-the-invisible/issues/7)
+- [Framing Design Intent](https://github.com/0xf17/sonification-of-the-invisible/issues/8)
+- [Designing Study Protocol](https://github.com/0xf17/sonification-of-the-invisible/issues/9)
+
+## 29-11-2019 Friday
+- Field Study
 
 # Week 2
 - TBA

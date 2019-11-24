@@ -1,6 +1,6 @@
 # Sonification of the Invisible
 
-This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) being carried out at Srishti Institute of Art, Design & Technology, Bangalore. **Sonification of the Invisible** is one of the tracks under the theme of 'Sensing the Rhythm'.
+This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) being carried out at Srishti Institute of Art, Design & Technology, Bangalore. **Sonification of the Invisible** facilitated by [Gaurav Singh](https://github.com/0xf17) is one of the tracks under the theme of 'Sensing the Rhythm'.
 
 # Appendix
 ## Srishti Interlude 2019-20

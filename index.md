@@ -47,19 +47,6 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 - 19-11-2019 Conference Day
 
 # Appendix
-
-## Srishti Interlude 2019-20
-**The Confluence of Forces (in the midst of change); Building dialogue to envisage a collective vision to celebrate the future.** Swaying in the midst of forces of confluence seems to be order of the day. It is affirming and blissful at times but at times, it can be the most difficult mile to tread. However, it is the propeller of energy, the transformer of time and may be the confirmation of lived experiences. All of us have our stake in it. No wonder why we strive to be in the midst of it. It is about our voice being heard, about our vision being seen and about our participation being valued. And most of it all it is about acknowledging the space, place, emotions, faith and the life & time we live in.
-
-Every place will have a story of its own. Be it about the time, place or people. These stories connect all the three aspects mentioned and above all it reveals many facets that exists within it. As Italo Calvino writes in his book, 'Invisible Cities' "Cities, like dreams, are made of desires and fears, even if the thread of their discourse is secret, their rules are absurd, their perspectives deceitful, and everything conceals something else."
-
-## Objective of the Engagement
-- What happens when a neighbourhood which is routinely described through a language of lack and inadequacy is approached through artistic and creative practice? 
-- Will it allow us to step outside the calculative grid of the civic administrator and celebrate the same neighbourhood as a cite of creative plenitude? 
-- We hope that in engaging with such a process we will be able to share the fascinating concentration of histories, emotions, material traces, embodied practices and sheer human ingenuity that are at play in the Shivajinagar-Commercial Road area.
-- Our group/studio will explore such questions by being attentive to spatio-temporal rhythms and patterns of sensorial stimulus. 
-- Guided more by process and the collaborative grammar of interaction our multiple, open-ended explorations will hopefully offer different vantage points into this part of the city. 
-
 ## Request GitHub Collaborator Invite
 - Create your GitHub account [here](https://github.com). Ignore if you already have one.
 - Send an email with subject `'[Srishti IL 2019] Requesting GitHub Collaborator Invite'` with your GitHub email/handle in the body to `gaurav.singh@srishti.ac.in`.

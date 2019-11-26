@@ -9,33 +9,43 @@ Facilitator: [Gaurav Singh](https://github.com/0xf17)
 - Introductory presentation by Dr.Geetha Narayanan
 - Group allocation and Introduction to tracks
 - Ethics of Engagement workshop
+- Field study
 
 ## 26-11-2019 Tuesday
 - Field study
-
-## 27-11-2019 Wednesday
+- Introduction to the track
 - [Responsibility delegation](https://github.com/0xf17/sonification-of-the-invisible/issues/1)
 - [Understanding what is Sonification?](https://github.com/0xf17/sonification-of-the-invisible/issues/2)
 - [Warming up for the Research + Inspiration](https://github.com/0xf17/sonification-of-the-invisible/issues/3)
+- Setting up website
+
+## 27-11-2019 Wednesday
 - [Develop Project Roadmap](https://github.com/0xf17/sonification-of-the-invisible/issues/4)
-- [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)
+- Recreating the map
+- Mapping the context
+- Preparing for the WIP demo
 
 ## 28-11-2019 Thursday
+- WIP demo
+
+## 29-11-2019 Friday
+- [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)
 - [Sonification within Srishti](https://github.com/0xf17/sonification-of-the-invisible/issues/6)
+
+# Week 2
 - [Finalizing data-points that will be captured during this study](https://github.com/0xf17/sonification-of-the-invisible/issues/7)
 - [Framing Design Intent](https://github.com/0xf17/sonification-of-the-invisible/issues/8)
 - [Designing Study Protocol](https://github.com/0xf17/sonification-of-the-invisible/issues/9)
-
-## 29-11-2019 Friday
-- Field Study
-
-# Week 2
-- TBA
+- Field study
+- Prototype Iteration 1
 
 # Week 3
-- TBA
+- Field study
+- Prototype Iteration 2
 
 # Week 4
+- Exhibit design
+- Preparing for conference
 - 19-11-2019 Conference Day
 
 # Appendix

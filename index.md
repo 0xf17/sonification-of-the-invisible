@@ -61,7 +61,7 @@ Every place will have a story of its own. Be it about the time, place or people.
 - Guided more by process and the collaborative grammar of interaction our multiple, open-ended explorations will hopefully offer different vantage points into this part of the city. 
 
 ## Request GitHub Collaborator Invite
-- Create your GitHub account [here](https://github.com).
+- Create your GitHub account [here](https://github.com). Ignore if you already have one.
 - Send an email with subject `'[Srishti IL 2019] Requesting GitHub Collaborator Invite'` with your GitHub email/handle in the body to `gaurav.singh@srishti.ac.in`.
 
 ## Important Notes

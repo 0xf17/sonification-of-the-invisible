@@ -2,7 +2,18 @@
 
 This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) being carried out at Srishti Institute of Art, Design & Technology, Bangalore. **Sonification of the Invisible** is one of the tracks under the theme of [Sensing the Rhythm](#objective-of-the-engagement). This track will engage in consciously unearthing qualitative patterns by combining data which is either invisible, lost and/or difficult to quantify. The sensing of these patterns will be analysed through sonification of these complex patterns and will be made available for the community and the city.
 
-Facilitator: [Gaurav Singh](https://github.com/0xf17)
+Project Members
+
+| Name               | Email                                 |
+| ------------------ | ------------------------------------- |
+| Gaurav Singh       | gaurav.singh@srishti.ac.in            |
+| Animesh Sandeep    | animesh.bondre1996@gmail.com          |
+| Krupali Vijaykumar | krupali018@gmail.com                  |
+| Samriddhi Pandey   | spsamridhi@gmail.com                  |
+| Mrinalini Majumdar | mrinalini.majumdar@gmail.com          |
+| Prateek Purkar     | prateek.purkar@gmail.com              |
+| Arpita Hemant      | arpitahajare96@gmail.com              |
+| Sakshi Kanchan     | arpitahajare96@gmail.com              |
 
 # Week 1
 ## 25-11-2019 Monday

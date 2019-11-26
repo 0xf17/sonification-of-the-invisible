@@ -13,15 +13,15 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 - Field study
 - [Introduction to the track](https://github.com/0xf17/sonification-of-the-invisible/issues/10)
 - [Responsibility delegation](https://github.com/0xf17/sonification-of-the-invisible/issues/1)
+
+## 27-11-2019 Wednesday
 - [Understanding what is Sonification?](https://github.com/0xf17/sonification-of-the-invisible/issues/2)
 - [Warming up for the Research + Inspiration](https://github.com/0xf17/sonification-of-the-invisible/issues/3)
 - Setting up website
-
-## 27-11-2019 Wednesday
-- [Develop Project Roadmap](https://github.com/0xf17/sonification-of-the-invisible/issues/4)
 - Recreating the map
 - Mapping the context
 - Preparing for the WIP demo
+- [Develop Project Roadmap](https://github.com/0xf17/sonification-of-the-invisible/issues/4)
 
 ## 28-11-2019 Thursday
 - WIP demo

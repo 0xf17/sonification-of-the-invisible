@@ -70,7 +70,7 @@ Every place will have a story of its own. Be it about the time, place or people.
 - For quick questions or help, stick to [issues](https://github.com/0xf17/sonification-of-the-invisible/issues) on GitHub repo.
 
 ## Miscellaneous
-- Project Members and their email addresses
+- [Project Members and their contacts](https://github.com/0xf17/sonification-of-the-invisible/wiki/Project-Members---Contacts)
 
 <hr/>
 

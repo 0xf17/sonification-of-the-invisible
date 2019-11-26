@@ -31,10 +31,10 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 - [Sonification within Srishti](https://github.com/0xf17/sonification-of-the-invisible/issues/6)
 
 # Week 2
+- Field study
 - [Finalizing data-points that will be captured during this study](https://github.com/0xf17/sonification-of-the-invisible/issues/7)
 - [Framing Design Intent](https://github.com/0xf17/sonification-of-the-invisible/issues/8)
 - [Designing Study Protocol](https://github.com/0xf17/sonification-of-the-invisible/issues/9)
-- Field study
 - Prototype Iteration 1
 
 # Week 3

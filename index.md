@@ -16,10 +16,11 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 - [Understanding what is Sonification?](https://github.com/0xf17/sonification-of-the-invisible/issues/2)
 
 ## 27-11-2019 Wednesday
-- [Warming up for the Research + Inspiration](https://github.com/0xf17/sonification-of-the-invisible/issues/3) <span class="alert">Overdue</span>
-- [Develop Project Roadmap](https://github.com/0xf17/sonification-of-the-invisible/issues/4)
-- [Preparing for the presentation for sharing progress with other groups](https://github.com/0xf17/sonification-of-the-invisible/issues/13)
-- [Setting up website](https://github.com/0xf17/sonification-of-the-invisible/issues/14)
+- [Warming up for the Research + Inspiration](https://github.com/0xf17/sonification-of-the-invisible/issues/3) <span class="alert">Overdue! Complete the doc and close the issue</span>
+- [Develop Project Roadmap](https://github.com/0xf17/sonification-of-the-invisible/issues/4) <span class="alert">Overdue! Complete it, leave the updated roadmap and close the issue</span>
+- [Preparing for the presentation for sharing progress with other groups](https://github.com/0xf17/sonification-of-the-invisible/issues/13) <span class="alert">Overdue! Complete it, leave the PPTX file and close the issue</span>
+- [Setting up website](https://github.com/0xf17/sonification-of-the-invisible/issues/14) <span class="alert">Overdue! Complete it, leave URL of the website and close the issue</span>
+  - [Add posts for day 1 and day 2](https://github.com/0xf17/sonification-of-the-invisible/issues/16)
 
 ## 28-11-2019 Thursday
 - Sharing progress with other groups

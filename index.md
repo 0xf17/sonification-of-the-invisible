@@ -48,6 +48,7 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 
 # Appendix
 ## Internal Teams
+
 | Team           | Member 1   | Member 2    | Observer/Helper     |
 | -------------- | ---------- | ----------- | ------------------- |
 | Doc            | Mrinalini  | Prateek     | Krupali, Surabhi    |

@@ -16,7 +16,7 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 - [Understanding what is Sonification?](https://github.com/0xf17/sonification-of-the-invisible/issues/2)
 
 ## 27-11-2019 Wednesday
-- [Warming up for the Research + Inspiration](https://github.com/0xf17/sonification-of-the-invisible/issues/3)
+- [Warming up for the Research + Inspiration](https://github.com/0xf17/sonification-of-the-invisible/issues/3) <span class="alert">Overdue</span>
 - [Develop Project Roadmap](https://github.com/0xf17/sonification-of-the-invisible/issues/4)
 - [Preparing for the presentation for sharing progress with other groups](https://github.com/0xf17/sonification-of-the-invisible/issues/13)
 - [Setting up website](https://github.com/0xf17/sonification-of-the-invisible/issues/14)
@@ -66,3 +66,11 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 <hr/>
 
 Copyright (C) Srishti Institute of Art, Design & Technology. Only intended for internal use by project members.
+
+<style>
+  span.alert{
+    color:white;
+    background:red;
+    padding: 5px;
+  }
+</style>

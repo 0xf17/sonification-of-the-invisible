@@ -47,18 +47,22 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 - 19-11-2019 Conference Day
 
 # Appendix
-## Request GitHub Collaborator Invite
-- Create your GitHub account [here](https://github.com). Ignore if you already have one.
-- Send an email with subject `'[Srishti IL 2019] Requesting GitHub Collaborator Invite'` with your GitHub email/handle in the body to `gaurav.singh@srishti.ac.in`.
+## Internal Teams
+| Team           | Member 1   | Member 2    | Observer/Helper     |
+| -------------- | ---------- | ----------- | ------------------- |
+| Doc            | Mrinalini  | Prateek     | Krupali, Surabhi    |
+| VD             | Krupali    | Arpita      | Sakshi, Samriddhi   |
+| Planning       | Prateek    | Samriddhi   | Sakshi              |
+| Presentation   | Surabhi    | Animesh     | Mrinalini, Arpita   |
+
+[Email addresses](https://github.com/0xf17/sonification-of-the-invisible/wiki/Project-Members---Contacts)
 
 ## Important Notes
 - Please prefix `[Srishti IL 2019]` in the email subject when sending email to me (about this project).
 - As much as possible, keep all the members of this project in `cc`.
 - For quick questions or help, stick to [issues](https://github.com/0xf17/sonification-of-the-invisible/issues) on GitHub repo.
 
-## Miscellaneous
-- [Project Members and their contacts](https://github.com/0xf17/sonification-of-the-invisible/wiki/Project-Members---Contacts)
-
+- 
 <hr/>
 
 Copyright (C) Srishti Institute of Art, Design & Technology. Only intended for internal use by project members.

@@ -66,11 +66,3 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 <hr/>
 
 Copyright (C) Srishti Institute of Art, Design & Technology. Only intended for internal use by project members.
-
-<style>
-  span.alert{
-    color:white;
-    background:red;
-    padding: 5px;
-  }
-</style>

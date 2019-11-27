@@ -62,7 +62,6 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 - As much as possible, keep all the members of this project in `cc`.
 - For quick questions or help, stick to [issues](https://github.com/0xf17/sonification-of-the-invisible/issues) on GitHub repo.
 
-- 
 <hr/>
 
 Copyright (C) Srishti Institute of Art, Design & Technology. Only intended for internal use by project members.

@@ -22,7 +22,7 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 - [Setting up website](https://github.com/0xf17/sonification-of-the-invisible/issues/14)
 
 ## 28-11-2019 Thursday
-- WIP demo
+- Sharing progress with other groups
 - Recreating the map
 - Mapping the context
 

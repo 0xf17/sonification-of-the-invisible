@@ -24,8 +24,8 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 
 ## 28-11-2019 Thursday
 - Sharing progress with other groups
-- Recreating the map
-- Mapping the context
+- [Recreating the map](https://github.com/0xf17/sonification-of-the-invisible/issues/17)
+- [Mapping the context](https://github.com/0xf17/sonification-of-the-invisible/issues/18)
 
 ## 29-11-2019 Friday
 - [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)

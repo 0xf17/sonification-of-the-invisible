@@ -23,7 +23,7 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 
 ## 28-11-2019 Thursday
 - ~~Sharing progress with other groups~~
-- Finishing yesterday's backlog
+- Finishing previous day's backlog
 - [Recreating the map](https://github.com/0xf17/sonification-of-the-invisible/issues/17)
 - [Mapping the context](https://github.com/0xf17/sonification-of-the-invisible/issues/18)
 

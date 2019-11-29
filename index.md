@@ -28,11 +28,14 @@ This is part of the [Srishti Interlude 2019-20](#srishti-interlude-2019-20) bein
 - [Mapping the context](https://github.com/0xf17/sonification-of-the-invisible/issues/18)
 
 ## 29-11-2019 Friday
-- [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)
-- [Sonification within Srishti](https://github.com/0xf17/sonification-of-the-invisible/issues/6)
+- Reviewing previous day's work
+- [Experiment: Sonification within Srishti](https://github.com/0xf17/sonification-of-the-invisible/issues/6)
+- [Setting up Google Drive for archiving and documentation](https://github.com/0xf17/sonification-of-the-invisible/issues/20)
+- [Revise the website](https://github.com/0xf17/sonification-of-the-invisible/issues/21)
 
 # Week 2
 - Field study
+- [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)
 - [Finalizing data-points that will be captured during this study](https://github.com/0xf17/sonification-of-the-invisible/issues/7)
 - [Framing Design Intent](https://github.com/0xf17/sonification-of-the-invisible/issues/8)
 - [Designing Study Protocol](https://github.com/0xf17/sonification-of-the-invisible/issues/9)

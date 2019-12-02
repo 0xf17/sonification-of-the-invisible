@@ -12,7 +12,7 @@ Documentation Website: [https://sonificationoftheinvisible.home.blog](https://so
 - Field study
 
 ## 26-11-2019 Tuesday
-- Field study
+- Field study 1 (Unstructured)
 - [Introduction to the track](https://github.com/0xf17/sonification-of-the-invisible/issues/10)
 - [Responsibility delegation](https://github.com/0xf17/sonification-of-the-invisible/issues/1)
 - [Understanding what is Sonification?](https://github.com/0xf17/sonification-of-the-invisible/issues/2)
@@ -38,22 +38,18 @@ Documentation Website: [https://sonificationoftheinvisible.home.blog](https://so
 # Week 2
 ## 02-12-2019 Monday
 - Finishing previous week's backlog
+- Realigning goals of the project
+- Continue mapping the context
+- Reflection; Building understanding of Sonification
+- Planning for Field Study 2 (Contextual Inquiry)
+
+## Upcoming
 - [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)
 - [Designing Study Protocol](https://github.com/0xf17/sonification-of-the-invisible/issues/9)
-
-## 03-12-2019 Tuesday
 - [Framing Design Intent](https://github.com/0xf17/sonification-of-the-invisible/issues/8)
 - Field study
-
-## 04-12-2019 Wednesday
 - Prototype Iteration 1
-
-## 05-12-2019 Thursday
 - [Finalizing data-points that will be captured during this study](https://github.com/0xf17/sonification-of-the-invisible/issues/7)
-
-## 06-12-2019 Friday
-
-## 07-12-2019 Saturday
 
 
 # Week 3

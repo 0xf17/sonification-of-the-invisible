@@ -43,7 +43,7 @@ Documentation Website: [https://sonificationoftheinvisible.home.blog](https://so
 - Reflection; Building understanding of Sonification
 - Planning for Field Study 2 (Contextual Inquiry)
 
-## Upcoming
+## Upcoming this week
 - [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)
 - [Designing Study Protocol](https://github.com/0xf17/sonification-of-the-invisible/issues/9)
 - [Framing Design Intent](https://github.com/0xf17/sonification-of-the-invisible/issues/8)

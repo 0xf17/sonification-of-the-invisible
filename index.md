@@ -37,7 +37,7 @@ Documentation Website: [https://sonificationoftheinvisible.home.blog](https://so
 
 # Week 2
 ## 02-12-2019 Monday
-- Revising/completing backlog
+- Finishing previous week's backlog
 - [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)
 - [Designing Study Protocol](https://github.com/0xf17/sonification-of-the-invisible/issues/9)
 

@@ -36,12 +36,25 @@ Documentation Website: [https://sonificationoftheinvisible.home.blog](https://so
 - [Revise the website](https://github.com/0xf17/sonification-of-the-invisible/issues/21)
 
 # Week 2
-- Field study
+## 02-12-2019 Monday
+- Revising/completing backlog
 - [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)
-- [Finalizing data-points that will be captured during this study](https://github.com/0xf17/sonification-of-the-invisible/issues/7)
-- [Framing Design Intent](https://github.com/0xf17/sonification-of-the-invisible/issues/8)
 - [Designing Study Protocol](https://github.com/0xf17/sonification-of-the-invisible/issues/9)
+
+## 03-12-2019 Tuesday
+- [Framing Design Intent](https://github.com/0xf17/sonification-of-the-invisible/issues/8)
+- Field study
+
+## 04-12-2019 Wednesday
 - Prototype Iteration 1
+
+## 05-12-2019 Thursday
+- [Finalizing data-points that will be captured during this study](https://github.com/0xf17/sonification-of-the-invisible/issues/7)
+
+## 06-12-2019 Friday
+
+## 07-12-2019 Saturday
+
 
 # Week 3
 - Field study

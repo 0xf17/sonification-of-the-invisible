@@ -38,10 +38,11 @@ Documentation Website: [https://sonificationoftheinvisible.home.blog](https://so
 # Week 2
 ## 02-12-2019 Monday
 - Finishing previous week's backlog
-- Realigning goals of the project
+- [Realigning goals of the project + Reflection; Building understanding of Sonification](https://github.com/0xf17/sonification-of-the-invisible/issues/22)
 - Continue mapping the context
-- Reflection; Building understanding of Sonification
 - Planning for Field Study 2 (Contextual Inquiry)
+  - Generating questions to understand history and current demography
+  
 
 ## Upcoming this week
 - [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)

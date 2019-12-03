@@ -43,6 +43,8 @@ Documentation Website: [https://sonificationoftheinvisible.home.blog](https://so
 - Planning for Field Study 2 (Contextual Inquiry)
   - Generating questions to understand history and current demography
   
+## 03-12-2019 Tuesday
+- TBA
 
 ## Upcoming this week
 - [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)

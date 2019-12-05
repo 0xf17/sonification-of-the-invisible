@@ -47,6 +47,14 @@ Documentation Website: [https://sonificationoftheinvisible.home.blog](https://so
 - Backtracking to Research
   - Why research?
 - Continue planning for Field Study 2
+  - Working on the questions to understand history and demography
+  - Field Study 2 Protocol
+
+## 04-12-2019 Wednesday
+- Field Study 2
+
+## 05-12-2019 Thursday
+- Debriefing from FS2
 
 ## Upcoming this week
 - [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)

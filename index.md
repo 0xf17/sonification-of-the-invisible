@@ -56,18 +56,24 @@ Documentation Website: [https://sonificationoftheinvisible.home.blog](https://so
 ## 05-12-2019 Thursday
 - Debriefing from FS2
 
-## Upcoming this week
-- [Identify data-points that may be captured](https://github.com/0xf17/sonification-of-the-invisible/issues/5)
-- [Designing Study Protocol](https://github.com/0xf17/sonification-of-the-invisible/issues/9)
+## 06-12-2019 Friday
 - [Framing Design Intent](https://github.com/0xf17/sonification-of-the-invisible/issues/8)
-- Field study
-- Prototype Iteration 1
-- [Finalizing data-points that will be captured during this study](https://github.com/0xf17/sonification-of-the-invisible/issues/7)
-
 
 # Week 3
-- Field study
-- Prototype Iteration 2
+## 09-12-2019 Monday
+- Brainstorming
+
+## 10-12-2019 Tuesday
+- Conceptualization
+
+## 11-12-2019 Wednesday
+- Prototype Iteration 1
+
+## 12-12-2019 Thursday
+- Sharing work with other groups
+
+## 13-12-2019 Friday
+- Data collection
 
 # Week 4
 - Exhibit design
